@@ -1,0 +1,1 @@
+remove a directory using: rm -rf _some name__
